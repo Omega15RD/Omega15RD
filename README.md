@@ -4,7 +4,7 @@ MMG
 
 Intento de DEV
 
-# 💻 Leguajes utilizados:
+# Herramientas:
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -17,6 +17,9 @@ Intento de DEV
  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+
+# Leguajes utilizados:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omega15RD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)"
 
 <!--
 **Omega15RD/Omega15RD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
